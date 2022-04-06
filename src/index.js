@@ -13,7 +13,7 @@ const schema = buildSchema(`
   }
   
   type Query {
-    characters(cartoon: String): [Character]
+    characters(cartoon: String): [Character!]
     hello: String
   }
 `);

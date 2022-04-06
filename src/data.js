@@ -1,10 +1,17 @@
 export const characters = [
   {
+    age: 14,
     cartoons: ["Spongebob Squarepants"],
     id: "075289e5-18b8-4b96-857b-9a5750ec3707",
     name: "Spongebob Squarepants",
   },
   {
+    cartoons: ["Spongebob Squarepants"],
+    id: "075289e5-18b8-4b96-857b-9a5750ec3707",
+    name: "Patrick Star",
+  },
+  {
+    age: 11,
     cartoons: ["Hilda"],
     id: "5631db63-6a5b-489b-a25e-cb55b2900c32",
     name: "Hilda",
@@ -15,11 +22,13 @@ export const characters = [
     name: "Johanna",
   },
   {
+    age: 11,
     cartoons: ["Hilda"],
     id: "594b2f9c-ba5f-4a3e-8b24-c59f738ec8b4",
     name: "David",
   },
   {
+    age: 11,
     cartoons: ["Hilda"],
     id: "a9618494-440d-4355-aa72-dc960e211232",
     name: "Frida",
@@ -40,11 +49,13 @@ export const characters = [
     name: "Kaisa",
   },
   {
+    age: 12,
     cartoons: ["Adventure Time", "Adventure Time: Distant Lands"],
     id: "3dd531e6-f1d6-47ce-b1e4-81e2a83d2a73",
     name: "Finn",
   },
   {
+    age: 28,
     cartoons: ["Adventure Time"],
     id: "763e104d-2810-418c-9096-2130b6195f5d",
     name: "Jake",
@@ -75,11 +86,13 @@ export const characters = [
     name: "Samurai Jack",
   },
   {
+    age: 8,
     cartoons: ["Dexter's Laboratory"],
     id: "4837cf80-ac43-4acd-b32b-f597dfd57b7b",
     name: "Dexter",
   },
   {
+    age: 11,
     cartoons: ["Dexter's Laboratory"],
     id: "4837cf80-ac43-4acd-b32b-f597dfd57b7b",
     name: "Dee Dee",
@@ -98,10 +111,5 @@ export const characters = [
     cartoons: ["Courage the Cowardly Dog"],
     id: "57da5a9a-17aa-4fca-967a-657da4f5b7ab",
     name: "Muriel Bagge",
-  },
-  {
-    cartoons: [""],
-    id: "",
-    name: "",
   },
 ];
